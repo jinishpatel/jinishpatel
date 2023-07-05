@@ -1,5 +1,5 @@
 <p>
-  <img src="https://media.tenor.com/_of49PJ8GosAAAAC/hello-hi.gif" width=50px/>
+  <img src="https://media.tenor.com/_of49PJ8GosAAAAC/hello-hi.gif" style="width:50px"/>
 </p>
 
 Jinish Patel 👨‍💻
