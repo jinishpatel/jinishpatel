@@ -19,3 +19,6 @@ Let's connect and collaborate on fascinating projects or share our love for codi
 <a href="https://github.com/jinishpatel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinishpatel&theme=light&hide_langs_below=1" />
 </a>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
+ </p>
