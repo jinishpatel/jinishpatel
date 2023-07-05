@@ -1,7 +1,7 @@
 <p>
   <img src="https://media.tenor.com/_of49PJ8GosAAAAC/hello-hi.gif" width:"50"/>
 </p>
-
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 Jinish Patel 👨‍💻
 Passionate | Nature Lover | Manga Enthusiast
 
