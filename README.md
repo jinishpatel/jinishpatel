@@ -15,3 +15,7 @@ Get in Touch:
 🔗 LinkedIn : https://www.linkedin.com/in/jinishpateljp/
 
 Let's connect and collaborate on fascinating projects or share our love for coding and technology! Together, we can make a positive impact and drive innovation! 🚀
+
+<a href="https://github.com/jinishpatel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinishpatel&theme=light&hide_langs_below=1" />
+</a>
