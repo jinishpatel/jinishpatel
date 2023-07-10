@@ -14,7 +14,7 @@ Skills
 
 If you're interested, feel free to explore my GitHub repositories to see the exciting projects I've worked on. I believe in the power of open-source collaboration and continuous improvement.
 
-Get in Touch:
+Get in Touch:</br>
 📧 Email: Jinish5597@gmail.com </br>
 🔗 LinkedIn : https://www.linkedin.com/in/jinishpateljp/
 
